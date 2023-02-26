@@ -13,7 +13,7 @@ int n = int.Parse(Console.ReadLine());
     }
     else
     {
-       Console.WriteLine("Четных чисел меньше 1 не существует"); 
+       Console.WriteLine("Положительных четных чисел меньше 1 не существует"); 
     }
      
     
